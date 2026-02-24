@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Bloatube",
+    "version": "1.0",
+    "description": "Optimizes youtube for better viewing!",
+    "permissions": ["storage", "activeTab", "scripting"],
+    "host_permssions": [""],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
